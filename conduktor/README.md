@@ -1,7 +1,7 @@
 # Coduktor UI
 * Docs: https://www.conduktor.io/
 * Source: https://github.com/conduktor/conduktor-platform
-* Helc Charts: https://helm.conduktor.io/
+* Helm Charts: https://helm.conduktor.io/
 
 ## Installation
 * Spin up PostgreSQL database (mandatory):
