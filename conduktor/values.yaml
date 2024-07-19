@@ -1,0 +1,14 @@
+config:
+  organization:
+    name: "My Org"
+
+  admin:
+    email: "test@my.org"
+    password: "logMeIn!"
+
+  database:
+    host: 'postgres.psql'
+    port: 5432
+    name: 'conduktor'
+    username: 'psql'
+    password: 'psql'
