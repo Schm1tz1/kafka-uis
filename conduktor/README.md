@@ -1,4 +1,4 @@
-# Coduktor UI
+# Conduktor UI
 * Docs: https://www.conduktor.io/
 * Source: https://github.com/conduktor/conduktor-platform
 * Helm Charts: https://helm.conduktor.io/
